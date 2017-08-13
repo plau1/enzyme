@@ -12,6 +12,7 @@
     "id-length": 0,
     "new-cap": [2, { "capIsNewExceptions": ["AND"] }],
     "react/jsx-pascal-case": [2, { "allowAllCaps": true }],
+    "import/first": 0,
     "no-underscore-dangle": [2, {
       "allowAfterThis": true,
       "allow": [
